@@ -2,7 +2,7 @@ package com.xiajunzhuang.example;
 
 import java.util.Scanner;
 
-public class Main1 {
+public class Demo1 {
     public static void main(String[] arg){
         double result = 0;
         Scanner scanner = new Scanner(System.in);
